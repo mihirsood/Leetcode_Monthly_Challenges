@@ -5,3 +5,4 @@ Months Completed
   - June
   - July
   - August
+  - September
