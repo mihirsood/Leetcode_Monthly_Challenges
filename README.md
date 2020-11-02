@@ -8,9 +8,11 @@ Months Completed :
   - June
   - July
   - August
-  - September
+  - September    
+  - October
+
 
 Ongoing :
 
-  - October
   - May
+  - November
